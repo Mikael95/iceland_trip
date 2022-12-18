@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VTfTErlELykQB2Mq4V1YLTGY/+vH4T/NzY38fGpyIDuWTxOBXfrEft2+aHERLQVL/OiJdItCmJBgq5qg1C8XSA==",
+  "dgSpecHash": "TVEiKsZzwDmwkHlblqJIHHG9z2UbjbGzn+PzyEUN+dh1IrubWFY+ISJfuITN/JlzTXqOTjO6OUlUcOxgU3KQPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\root\\iceland_trip\\api\\api.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\root\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\selenium.support\\4.4.0\\selenium.support.4.4.0.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\selenium.webdriver\\4.4.0\\selenium.webdriver.4.4.0.nupkg.sha512",
+    "C:\\Users\\root\\.nuget\\packages\\selenium.webdriver.chromedriver\\105.0.5195.5200\\selenium.webdriver.chromedriver.105.0.5195.5200.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
