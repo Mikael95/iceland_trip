@@ -129,3 +129,146 @@ JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Pha
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
 JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675803719145	geckodriver	INFO	Listening on 127.0.0.1:55782
+1675803722205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileAAx7lj"
+1675803722457	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675803722463	Marionette	INFO	Listening on port 55791
+Read port: 55791
+WebDriver BiDi listening on ws://127.0.0.1:55783
+1675803722583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileAAx7lj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55783/devtools/browser/7e89a294-d95e-4646-b4b9-f42540586f27
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675803846554	geckodriver	INFO	Listening on 127.0.0.1:55889
+1675803849637	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileuiDBTA"
+1675803849873	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675803849878	Marionette	INFO	Listening on port 55899
+WebDriver BiDi listening on ws://127.0.0.1:55890
+Read port: 55899
+1675803850082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileuiDBTA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55890/devtools/browser/f14ac19d-cebf-49bf-ae60-0f6697cc5844
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675803988143	geckodriver	INFO	Listening on 127.0.0.1:55987
+1675803991211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileyYImA8"
+1675803991451	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675803991457	Marionette	INFO	Listening on port 55997
+WebDriver BiDi listening on ws://127.0.0.1:55988
+Read port: 55997
+1675803991656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileyYImA8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55988/devtools/browser/784df5d3-e3b2-435c-bda3-da235adc59ee
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675804906192	geckodriver	INFO	Listening on 127.0.0.1:56201
+1675804909264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofilegkkZzv"
+1675804909500	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675804909505	Marionette	INFO	Listening on port 56212
+WebDriver BiDi listening on ws://127.0.0.1:56202
+Read port: 56212
+1675804909706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofilegkkZzv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56202/devtools/browser/6545c536-7c32-46b7-bef1-addfedf9ec7c
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675804957997	geckodriver	INFO	Listening on 127.0.0.1:56281
+1675804961063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56282" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileY1bV42"
+1675804961301	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675804961307	Marionette	INFO	Listening on port 56292
+WebDriver BiDi listening on ws://127.0.0.1:56282
+Read port: 56292
+1675804961510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileY1bV42\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56282/devtools/browser/e83de779-e344-4f2f-a082-4a2354db900e
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675805181641	geckodriver	INFO	Listening on 127.0.0.1:56367
+1675805184713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileQD3uYf"
+1675805184950	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675805184954	Marionette	INFO	Listening on port 56377
+WebDriver BiDi listening on ws://127.0.0.1:56368
+Read port: 56377
+1675805185154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileQD3uYf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56368/devtools/browser/fe10761f-fd26-4922-a7f2-1255ac0062b3
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675805275451	geckodriver	INFO	Listening on 127.0.0.1:56450
+1675805278520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileiIdr5y"
+1675805278756	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675805278760	Marionette	INFO	Listening on port 56459
+WebDriver BiDi listening on ws://127.0.0.1:56451
+Read port: 56459
+1675805278958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileiIdr5y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56451/devtools/browser/c99dbee2-2cbd-484d-9586-0d723e940361
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675805520373	geckodriver	INFO	Listening on 127.0.0.1:64712
+1675805523452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileCinjZk"
+1675805523692	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675805523697	Marionette	INFO	Listening on port 64722
+WebDriver BiDi listening on ws://127.0.0.1:64713
+Read port: 64722
+1675805523897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileCinjZk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64713/devtools/browser/e75b0043-0517-445e-9fe9-bafb297143a4
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675805564465	geckodriver	INFO	Listening on 127.0.0.1:64789
+1675805567543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofilerTE3EW"
+1675805567780	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675805567784	Marionette	INFO	Listening on port 64799
+WebDriver BiDi listening on ws://127.0.0.1:64790
+Read port: 64799
+1675805567987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofilerTE3EW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64790/devtools/browser/7494343b-9805-42e2-808f-5ad178c181c1
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675805630711	geckodriver	INFO	Listening on 127.0.0.1:64866
+1675805633806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofile08UVdw"
+1675805634042	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675805634047	Marionette	INFO	Listening on port 64876
+WebDriver BiDi listening on ws://127.0.0.1:64867
+Read port: 64876
+1675805634246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofile08UVdw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64867/devtools/browser/873e59cc-ef30-4f33-a322-3fbb08540c9c
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675805692131	geckodriver	INFO	Listening on 127.0.0.1:64945
+1675805695204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64946" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofile5Ek2zN"
+1675805695438	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675805695443	Marionette	INFO	Listening on port 64954
+WebDriver BiDi listening on ws://127.0.0.1:64946
+Read port: 64954
+1675805695641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofile5Ek2zN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64946/devtools/browser/e0252242-b8de-4c8f-af63-1bcf829e4313
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675805794126	geckodriver	INFO	Listening on 127.0.0.1:65023
+1675805797204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65024" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileeGBfxV"
+1675805797448	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675805797452	Marionette	INFO	Listening on port 65033
+WebDriver BiDi listening on ws://127.0.0.1:65024
+Read port: 65033
+1675805797605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileeGBfxV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65024/devtools/browser/3fd2d8c9-a456-4ac1-97b9-f7c823ce0fac
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
+1675805855014	geckodriver	INFO	Listening on 127.0.0.1:65108
+1675805858104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileaktKeg"
+1675805858341	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675805858346	Marionette	INFO	Listening on port 65118
+WebDriver BiDi listening on ws://127.0.0.1:65109
+Read port: 65118
+1675805858545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\pkmik\\AppData\\Local\\Temp\\rust_mozprofileaktKeg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65109/devtools/browser/109377ef-d089-4fbf-bf2d-900e687892d0
+JavaScript warning: https://booking.smyrilline.fo/en/wp-content/uploads/sites/2/minit/8b44ff886de8232f068af39d54fe49df.js, line 23080: unreachable code after return statement
