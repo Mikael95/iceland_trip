@@ -1,0 +1,104 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = iceland_trip
+build_property.RootNamespace = iceland_trip
+build_property.ProjectDir = c:\Users\pkmik\Projects\Iceland_Trip\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\pkmik\Projects\Iceland_Trip
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/App.razor]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXFBhZ2VzXENvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXFBhZ2VzXEZldGNoRGF0YS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXFBhZ2VzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXFNoYXJlZFxTdXJ2ZXlQcm9tcHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXFNoYXJlZFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-k9xu6uvie9
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXFNoYXJlZFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-wc36idr5ia
+
+[c:/Users/pkmik/Projects/Iceland_Trip/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-3g4f3w9e6q
+
+[c:/Users/pkmik/Projects/Iceland_Trip/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9a8hnxxgh7
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXFBhZ2VzXF9Ib3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/iceland_trip/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = aWNlbGFuZF90cmlwXFBhZ2VzXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/pkmik/Projects/Iceland_Trip/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
